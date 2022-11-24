@@ -1,7 +1,8 @@
-# Procedural_Labyrinth_Generation
+# Procedural_Labyrinth_Generation 
+
+## The Main source code is not finished, currently only provide Unity sample
+
  A Script Work on Unity
- 
- Also can be used to create a Map
  
  See more detail in the Unity branch
  
