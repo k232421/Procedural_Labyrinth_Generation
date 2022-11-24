@@ -1,2 +1,2 @@
 # Procedural_Labyrinth_Generation
- A Script Work on Unity
+ A Sample Script Work on Unity
